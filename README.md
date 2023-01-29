@@ -17,7 +17,7 @@ MERN Stack. NodeJS/ExpressJS. ReactJS. NextJS.
 
 ### <a href="https://www.github.com/Pikarestiv">github</a>
 
-<a href="https://www.tublian.com/profile/Pikarestiv"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Pikarestiv?type=without_score"></a>
+<a href="https://www.tublian.com/profile/Pikarestiv"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Pikarestiv?type=with_score"></a>
 
 ## 👇 Few things about me
 
