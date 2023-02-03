@@ -7,9 +7,9 @@ MERN Stack. NodeJS/ExpressJS. ReactJS. NextJS.
 
 ### My Stack:
 
-### <img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Php"/> <img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JavaScript"/> <img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/>
+### <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Php"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/JavaScript"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/.Net"/>
 
-### <img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Backend"/>
+### <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Frontend"/> <img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/github/tag/Backend"/>
 
 ### 
 
@@ -17,7 +17,7 @@ MERN Stack. NodeJS/ExpressJS. ReactJS. NextJS.
 
 ### <a href="https://www.github.com/Pikarestiv">github</a>
 
-<a href="https://www.tublian.com/profile/Pikarestiv"><img src="https://br947mb2rl.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Pikarestiv?type=without_score"></a>
+<a href="https://www.tublian.com/profile/Pikarestiv"><img src="https://t74hnvwwsd.execute-api.us-east-1.amazonaws.com/dev/ft/profile/streetcred/badge/Pikarestiv?type=without_score"></a>
 
 ## 👇 Few things about me
 
