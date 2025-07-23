@@ -22,7 +22,7 @@
 
 ## About Me
 
-- 🔭 I'm currently working on [Unspokenn](https://www.unspokenn.com)
+- 🔭 I'm currently working on [Unspokenn](https://www.unspokenn.com and Bumpit dating app)
 - 🌱 I'm currently learning **Rust and Solidity**
 - 👨‍💻 All of my projects are available at [https://okwycodes.dev](https://okwycodes.dev)
 - 💬 Ask me about **React, Next.js, Javascript And Typescript**
