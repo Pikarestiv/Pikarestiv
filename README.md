@@ -24,7 +24,7 @@
 
 - 🔭 I'm currently working on [Unspokenn](https://www.unspokenn.com) and Bumpit dating app
 - 🌱 I'm currently learning **Rust and Solidity**
-- 👨‍💻 All of my projects are available at [https://okwycodes.dev](https://okwycodes.dev)
+- 👨‍💻 All of my projects are available at [https://okwycodes.dev](https://okwycodes.dev) or [https://dumostech.com/portfolio.html](https://dumostech.com/portfolio.html)
 - 💬 Ask me about **React, Next.js, Javascript And Typescript**
 - 📫 How to reach me: **okwyodumodu@gmail.com**
 - 📄 Know about my experiences: [https://okwycodes.dev](https://okwycodes.dev)
