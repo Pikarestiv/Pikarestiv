@@ -22,8 +22,8 @@
 
 ## About Me
 
-- 🔭 I'm currently working on Bumpit dating app
-- 🌱 I'm currently learning Solidity**
+- 🔭 I am currently working on Bumpit dating app
+- 🌱 I am currently learning Solidity**
 - 👨‍💻 All of my projects are available at [https://okwycodes.dev](https://okwycodes.dev) or my company's portfolio [https://dumostech.com/portfolio.html](https://dumostech.com/portfolio.html)
 - 💬 Ask me about **React, Next.js, Javascript And Typescript**
 - 📫 How to reach me: **okwyodumodu@gmail.com**
